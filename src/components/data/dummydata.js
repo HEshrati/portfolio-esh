@@ -62,7 +62,7 @@ export const about = [
     desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
     desc1:
       "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
-    cover: "./images/girl.png",
+    cover: "/public/images/girl.png",
   },
 ];
 export const services = [
@@ -132,42 +132,42 @@ export const project = [
 export const portfolio = [
   {
     id: 1,
-    cover: "../images/port/port1.jpg",
+    cover: "/public/images/port/port1.jpg",
     name: "Brand",
     category: "marketing",
     title: "Brex Logo",
   },
   {
     id: 2,
-    cover: "../images/port/port2.jpg",
+    cover: "/public/images/port/port2.jpg",
     name: "Brand",
     category: "design",
     title: "Brex Logo",
   },
   {
     id: 3,
-    cover: "../images/port/port3.jpg",
+    cover: "/public/images/port/port3.jpg",
     name: "Brand",
     category: "development",
     title: "Brex Logo",
   },
   {
     id: 4,
-    cover: "../images/port/port4.jpg",
+    cover: "/public/images/port/port4.jpg",
     name: "Brand",
     category: "marketing",
     title: "Brex Logo",
   },
   {
     id: 5,
-    cover: "../images/port/port5.jpg",
+    cover: "/public/images/port/port5.jpg",
     name: "Brand",
     category: "design",
     title: "Brex Logo",
   },
   {
     id: 6,
-    cover: "../images/port/port6.jpg",
+    cover: "/public/images/port/port6.jpg",
     name: "Brand",
     category: "development",
     title: "Brex Logo",
